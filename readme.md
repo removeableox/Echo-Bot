@@ -13,8 +13,6 @@ When you open the link it will prompt you to add the bot to your server.
 
 All the following commands are prefixed with "!".
 
-Create a new connection:
-
 Command: !create {forum} {text channel}
 Description: Create a new connection between a forum and a text channel.
 Delete a connection:
