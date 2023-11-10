@@ -9,7 +9,7 @@ intents.typing = False
 intents.presences = False
 intents.message_content = True
 
-bot = commands.Bot(command_prefix='!', intents=intents)
+bot = commands.Bot(command_prefix='/', intents=intents)
 
 connection = sqlite3.connect("main.db")
 cursor = connection.cursor()
